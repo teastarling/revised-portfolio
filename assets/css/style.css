@@ -12,6 +12,11 @@
     color: #00A5A7 !important;
 }
 
+.card {
+    background-color: #31383f;
+    color: #00c0c4;
+}
+
 #title-text {
     font-family: 'Martel', serif;
     font-size: 6rem;

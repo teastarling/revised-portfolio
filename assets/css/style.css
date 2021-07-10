@@ -1,27 +1,32 @@
 
-#nav-background {
-    background-color: #F2E9EB;
-}
 
 #head-text {
-    color: #DD8EA4;
+    color: #00A5A7;
 }
 
-#content-text {
-    color: #31383f;
+.content-text {
+    color: #31383f !important;
 }
 
-#main-background {
-    background-color: #F2E9EB;
+.icon-color {
+    color: #00A5A7 !important;
+}
+
+#title-text {
+    font-family: 'Martel', serif;
+    font-size: 6rem;
+    color: #00c0c4;
 }
 
 #footer-background {
-    background-color: #FEDD89;
+    background-color: rgb(0, 192, 196, 0.1);
 }
 
 #round-img {
-    border-radius: 50%;
+    border-radius: 70%;
+    border: 6px solid rgb(0, 192, 196, 0.4);
 }
+
 
 @media (min-width: 576px) {
     .h-sm-100 {
@@ -32,5 +37,10 @@
 @media (max-width: 576px) {
     #round-img{
         display: none;
+    }
+    #title-text {
+        font-family: 'Martel', serif;
+        font-size: 3rem;
+        color: #00c0c4;
     }
 }

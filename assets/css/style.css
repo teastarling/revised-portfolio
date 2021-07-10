@@ -1,7 +1,12 @@
 
 
-#head-text {
+.head-text {
     color: #00A5A7;
+}
+
+.nav-font {
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 1.3rem;
 }
 
 .content-text {

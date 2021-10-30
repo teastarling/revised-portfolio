@@ -1,6 +1,6 @@
 # Portfolio
 
-This is a portfolio containing my recent projects, a short bio, and contact information.
+A portfolio utilizing bootstrap containing recent projects, a short bio, resume, and contact information.
 
 ## Screen Capture and Deployed Site
 
